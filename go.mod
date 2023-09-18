@@ -4,7 +4,6 @@ require (
 	github.com/Masterminds/squirrel v1.1.0 // indirect
 	github.com/blang/semver v3.5.1+incompatible // indirect
 	github.com/dyatlov/go-opengraph v0.0.0-20180429202543-816b6608b3c8 // indirect
-	github.com/evanphx/json-patch v4.5.0+incompatible // indirect
 	github.com/fortytw2/leaktest v1.3.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-gorp/gorp v2.0.0+incompatible // indirect
@@ -37,17 +36,16 @@ require (
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/multierr v1.2.0 // indirect
 	go.uber.org/zap v1.10.0 // indirect
-	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc // indirect
 	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb // indirect
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
-	gopkg.in/yaml.v2 v2.2.4
-	k8s.io/api v0.17.0
-	k8s.io/apimachinery v0.17.0
-	k8s.io/client-go v0.17.0
+	gopkg.in/yaml.v2 v2.2.8
+	k8s.io/api v0.17.16
+	k8s.io/apimachinery v0.17.16
+	k8s.io/client-go v0.17.16
 	k8s.io/kubectl v0.17.0
 )
 
